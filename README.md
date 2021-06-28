@@ -1,6 +1,6 @@
 # TVShowSearch 
 
-<h2>API used: </h2><a>https://www.tvmaze.com/api</a>
+**API used: **https://www.tvmaze.com/api
 
 Search page
 ![image](https://user-images.githubusercontent.com/69635164/123613350-12745180-d823-11eb-825b-13ae1f71b212.png)
