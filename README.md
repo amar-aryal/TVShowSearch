@@ -1,5 +1,7 @@
 # TVShowSearch 
 
+A simple web app using HTML, Bootstrap and JavaScript to search TV shows and detail info about them. The shows ratings can be compared in a chart. For chart, CanvasJS library is used.
+
 __API used:__ https://www.tvmaze.com/api
 
 __Search page__
