@@ -15,3 +15,6 @@ __API used:__ https://www.tvmaze.com/api
 
 ## Ratings comparison chart
 ![image](https://user-images.githubusercontent.com/69635164/123613569-43ed1d00-d823-11eb-841a-5f6d08007bfa.png)
+
+## Choosing chart type
+![image](https://user-images.githubusercontent.com/69635164/124928023-f6409380-e01e-11eb-9114-5bb6d29df814.png)
